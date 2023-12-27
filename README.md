@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# Resume and Cover Letter Feedback Application
+# Customer Relationship Management Application
 
 ## By: Saul Varshavsky
 
